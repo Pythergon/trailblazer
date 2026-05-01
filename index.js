@@ -8,7 +8,7 @@ const app = express();
 const server = createServer(app);
 const io = new Server(server);
 const port = 3000
-const PublicIp = '10.0.0.200'
+const PublicIp = '10.0.0.32'
 
 app.get('/', (req, res) => {
 //   res.send('<h1>Hello world</h1>');
