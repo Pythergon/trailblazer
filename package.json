@@ -7,7 +7,7 @@
     "socketio": "^1.0.0"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node sever.js",
     "dev": "nodemon server.js"
   }
 }
