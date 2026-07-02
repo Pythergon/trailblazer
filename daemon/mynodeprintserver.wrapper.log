@@ -1,0 +1,4 @@
+2026-07-02 15:43:49 - Starting C:\nvm4w\nodejs\node.exe  --harmony C:\Users\PrintServer\Documents\printserver\trailblazer\node_modules\node-windows\lib\wrapper.js --file C:\Users\PrintServer\Documents\printserver\trailblazer\server.js --scriptoptions= --log "My Node Print Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-02 15:43:49 - Started 6076
+2026-07-02 15:49:16 - Starting C:\nvm4w\nodejs\node.exe  --harmony C:\Users\PrintServer\Documents\printserver\trailblazer\node_modules\node-windows\lib\wrapper.js --file C:\Users\PrintServer\Documents\printserver\trailblazer\server.js --scriptoptions= --log "My Node Print Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-02 15:49:16 - Started 27996
